@@ -31,7 +31,8 @@ Diante da literatura disponível para o problema, vimos que existem diferentes a
 
 Para nosso problema especificamente, utilizamos o algoritmo de Dijkstra para encontrar o caminho mais curto, consequentemente, a melhor rota entre Natal e os outros estados do Brasil.
 
-### Acesse o relatório completo desse projeto para ler toda a descrição no link abaixo!
+<br/>
+### Acesse o relatório completo desse projeto para ler toda a descrição no link abaixo! 👇
 [Relatório do projeto](https://docs.google.com/document/d/15vXeH8v3TURqOERo9-oFat_90E-M0opaixRC3tHcAbk/edit?usp=sharing)
 
 ---
